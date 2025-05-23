@@ -1,33 +1,17 @@
 <center><img src="/images/qcomp.png?raw=true" alt="Sistema de IBM" width="300"  /></center>
 
 
-# Introducción a la computación cuántica
+# Curso de Computación Cuántica 6.0, Univ. de Extremadura, COMPUTAEX
 
 Tomás Fernández Pena, Univ. de Santiago de Compostela (tf.pena@usc.es)
 
-Programa (tentativo):
-
-**Lunes 8/7/24 17:30-20:00**
-
-- <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb" target="_blank">Historia y estado actual de la computación cuántica</a>
-  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#intro" target="_blank">¿Qué es la computación cuántica?</a>
-  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#historia" target="_blank">Historia de la computación cuántica</a>
-  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#sistemas" target="_blank">Sistemas cuánticos actuales</a>
-  - <a href="https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#qiskit" target="_blank">Introducción a Qiskit</a>
-
-**Martes 9/7/24 17:30-20:00**
-
-- [Bits y cúbits](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb)
-  - [Bits clásicos como vectores](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#bits)
-  - [Bits cuánticos o cúbits](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#cubits)
-  - [Medida del estado](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#medida)
-  - [Observables, valor esperado y matrices de Pauli](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#observables)
-  - (Opcional) [Errores, matrices de densidad y estados mezcla](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Bits%20y%20C%C3%BAbits.ipynb#errores)
-
-**Miércoles 10/7/24 17:30-20:00**
+Programa:
 
 - [Puertas cuánticas](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb)
-  - [Puertas clásicas vs cuánticas](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#clasicascuanticas)
+- [Puertas clásicas vs cuánticas](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#clasicascuanticas)
+- [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#paralelismo)
+- [Algoritmos de Deutsch y Deutsch-Jozsa](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#simples)
+- [Algoritmo de búsqueda de Grover: amplificación de amplitud](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#grover)
   - [Puertas cuánticas de 1 cúbit](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#1cubit)
   - [Puertas controladas: CNOT](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#cnot)
   - [Otras puertas](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Puertas%20cu%C3%A1nticas.ipynb#otras)
@@ -36,7 +20,7 @@ Programa (tentativo):
 **Lunes 15/7/24 17:30-20:00**
 
 - [Algoritmos cuánticos clásicos](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb)
-  - [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#paralelismo)
+  
   - [Algoritmo "simples": Deutsch, Deutsch-Jozsa, Bernstein-Vazirani, Simon](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#simples)
   - [Algoritmo de búsqueda de Grover: amplificación de amplitud](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#grover)
   - [Transformada de Fourier cuántica (QFT)](https://colab.research.google.com/github/tarabelo/2024-VIU-Quantum/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qft)
