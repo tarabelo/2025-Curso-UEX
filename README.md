@@ -9,4 +9,4 @@ Programa:
 - [Puertas clásicas vs cuánticas](https://colab.research.google.com/github/tarabelo/2025-Curso-UEX/blob/main/Puertas%20cl%C3%A1sicas%20vs%20cu%C3%A1nticas.ipynb)
 - [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2025-Curso-UEX/blob/main/Paralelismo%20cu%C3%A1ntico.ipynb)
 - [Algoritmos de Deutsch y Deutsch-Jozsa](https://colab.research.google.com/github/tarabelo/2025-Curso-UEX/blob/main/Algoritmos%20de%20Deutsch%20y%20Deutsch-Jozsa.ipynb)
-- [Algoritmo de búsqueda de Grover: amplificación de amplitud]()
+- [Algoritmo de búsqueda de Grover: amplificación de amplitud](https://colab.research.google.com/github/tarabelo/2025-Curso-UEX/blob/main/Algoritmo%20de%20b%C3%BAsqueda%20de%20Grover.ipynb)
